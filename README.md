@@ -7,7 +7,7 @@ ubuntu 20.04
   
 # 実行方法   
 $ cd catkin_ws/src  
-$ git clone git@github.com:my9918/ros.git
+$ git clone git@github.com:my9918/ros.git  
 $ cd ..  
 $ catkin_make  
   
@@ -22,7 +22,10 @@ $ rosrun mypkg twice.py
 
 ４つ目の端末  
 $ rostopic echo twice  
-
+  
+    
+# ライセンス  
+BSD 3-Clause Licence  
 
 
 

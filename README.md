@@ -27,6 +27,9 @@ $ rostopic echo twice
     
 # ライセンス  
 BSD 3-Clause Licence  
+  
+# 著者  
+Masamitsu Yamazaki + Ryuichi Ueda
 
 
 

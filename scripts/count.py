@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
 
+"""
+(C) 2022 Ryuichi Ueda
+
+"""
+
 import rospy
 from std_msgs.msg import Int32
 

@@ -3,6 +3,7 @@
 """
 (C) 2022 Ryuichi Ueda
 
+BSD 3-Clause Licence
 """
 
 import rospy

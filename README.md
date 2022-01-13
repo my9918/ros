@@ -24,6 +24,8 @@ $ rosrun mypkg twice.py
 ４つ目の端末  
 $ rostopic echo twice  
   
+# youtube  
+https://youtu.be/_vu4hj5JDpY  
     
 # ライセンス  
 BSD 3-Clause Licence  
